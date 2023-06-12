@@ -1,27 +1,27 @@
 {
-  "name": "yrm",
-  "version": "1.0.5",
-  "description": "NPM registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
+  "name": "@baixi/yrm",
+  "version": "1.0.0",
+  "description": "just for new npm mirror! NPM registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
   "bin": {
     "yrm": "./cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/i5ting/yrm.git"
+    "url": "git://github.com/baixi233/yrm.git"
   },
   "scripts": {
-    "star": "npm star yrm"
+    "star": "npm star @bx/yrm"
   },
   "keywords": [
     "NPM",
     "registry"
   ],
-  "author": "i5ting",
+  "author": "baixi233",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/i5ting/yrm/issues"
+    "url": "https://github.com/baixi233/yrm/issues"
   },
-  "homepage": "https://github.com/i5ting/yrm",
+  "homepage": "https://github.com/baixi233/yrm",
   "dependencies": {
     "async": "^1.5.2",
     "commander": "^2.9.0",
