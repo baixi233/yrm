@@ -10,7 +10,7 @@
     "url": "git://github.com/baixi233/yrm.git"
   },
   "scripts": {
-    "star": "npm star @bx/yrm"
+    "star": "npm star @baixi/yrm"
   },
   "keywords": [
     "NPM",
