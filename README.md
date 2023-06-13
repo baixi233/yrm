@@ -1,5 +1,7 @@
-yrm -- YARN registry manager
+yrm -- yarn/npm registry manager
 ===
+
+# clone from [yrm](https://github.com/i5ting/yrm)
 
 ## 更新taobao mirror地址(Just for new taobao mirror !)
 
