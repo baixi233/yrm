@@ -1,7 +1,7 @@
 yrm -- YARN registry manager
 ===
 
-## (更新npm mirror地址)Just for new npm mirror !
+## 更新taobao mirror地址(Just for new taobao mirror !)
 
 [![NPM version][npm-image]][npm-url]
 
