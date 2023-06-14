@@ -1,6 +1,6 @@
 {
   "name": "@baixi/yrm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "更新taobao mirror地址(just for new taobao mirror !) NPM registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
   "bin": {
     "yrm": "./cli.js"

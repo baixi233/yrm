@@ -79,5 +79,5 @@ When you use an other registry, you can not use the `publish` command.
 MIT
 
 
-[npm-image]: https://img.shields.io/npm/v/@baixi/yrm.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/@baixi/yrm
 [npm-url]: https://npmjs.org/package/@baixi/yrm
