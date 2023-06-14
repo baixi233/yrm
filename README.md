@@ -13,7 +13,7 @@ now include: `npm`, `cnpm`, `taobao`, `nj(nodejitsu)`, `rednpm`, `yarn`.
 ## Install
 
 ```
-$ npm install -g yrm
+$ npm install -g @baixi/yrm
 ```
 
 ## Example
